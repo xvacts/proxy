@@ -7,7 +7,7 @@ chrome.runtime.onInstalled.addListener(() => {
           singleProxy: {
             scheme: "socks5",
             host: "127.0.0.1",
-            port: 7890
+            port: 7896
           }
         }
       },
